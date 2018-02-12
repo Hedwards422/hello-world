@@ -1,2 +1,2 @@
 # hello-world
-Starting fresh
+Starting fresh with a fresh script for a fresh guy
